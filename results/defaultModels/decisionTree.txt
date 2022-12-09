@@ -1,0 +1,4 @@
+Profunditat del arbre: 18
+Numero de fulles del arbre: 253
+
+Accuracy: 0.659375

@@ -1,0 +1,2 @@
+Els millors parametres: {'max_depth': 30, 'max_features': None, 'max_leaf_nodes': None, 'min_weight_fraction_leaf': 0.0, 'splitter': 'best'}
+Coeficient de determinació del model: 0.7130790441176471

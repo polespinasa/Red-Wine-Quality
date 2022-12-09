@@ -1,0 +1,2 @@
+Els millors parametres: {'algorithm': 'auto', 'n_neighbors': 10, 'p': 2}
+Coeficient de determinació del model: 0.7044638480392157

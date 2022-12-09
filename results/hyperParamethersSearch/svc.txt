@@ -1,0 +1,2 @@
+Els millors parametres: {'C': 10, 'decision_function_shape': 'ovo', 'degree': 1, 'gamma': 'scale', 'max_iter': -1, 'random_state': 0}
+Coeficient de determinació del model: 0.7279442401960784
