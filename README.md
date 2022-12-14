@@ -11,6 +11,7 @@ En aquest notebook es realitzara un anàlisi del dataset i es compraran els difr
 La base de dades conté un seguit d'atributs, com el Ph del vi, àcids, sucres, sals, d'entre altres. Posteriorment es mostrarán i es tractaràn tots els atributs.
 L'objectiu serà predir la qualitat dels vins segons la resta d'atributs.  
 
+Nota: Alguns valors de accuracy poden variar dels que es veuen al notebook. Això és degut a que s'ha executat més d'un cop després de crear aquest resum.
 ## Models probats
 
 Per realitzar aquesta predicció s'utilitzen quatre models diferetns:  
